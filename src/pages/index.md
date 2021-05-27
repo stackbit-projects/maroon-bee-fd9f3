@@ -178,7 +178,7 @@ sections:
     title: Productivity Blog
     subtitle: What's Up?
     actions:
-      - label: View All
+      - label: VIEW ALL
         url: /blog
         style: primary
     blog_feed_cols: two
