@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Uplifting Projector for 
+    title: Uplifting Projector for Praise and Preaching
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
